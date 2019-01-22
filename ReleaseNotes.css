@@ -3,7 +3,7 @@ html {
 	color: #FFFFFF;
 }
 
-li a {
+li a.link a.hover {
 	font-size: .875em;
 }
 
