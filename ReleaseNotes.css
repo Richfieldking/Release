@@ -34,6 +34,7 @@ div.links ul li {
 @media screen and (min-width:750px) {
 	div.links {
 		position: fixed;
+		padding-right: 5px;
 	}
 
 	div.links ul {
